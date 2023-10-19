@@ -1,0 +1,8 @@
+target
+dist
+logs
+out
+.cache
+.vscode
+.DS_Store
+.idea
