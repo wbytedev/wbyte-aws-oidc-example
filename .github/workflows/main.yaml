@@ -20,7 +20,7 @@ jobs:
           role-to-assume: ${{ secrets.AWS_ASSUME_ROLE_ARN }}
           role-session-name: github-action-role
           aws-region: ${{ secrets.AWS_REGION }}
-
-      - name: List S3 buckets
-        run: |
-          aws s3 ls
+      
+      # - name: Verification step 
+      #   run: |
+      #     aws s3 ls
