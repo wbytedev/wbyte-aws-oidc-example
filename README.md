@@ -1,6 +1,6 @@
 # AWS OIDC Authentication Example with GitHub Actions
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Workflow%20Status-brightgreen)
+![GitHub Actions](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
 
 This repository is an example of how to deploy a project to Amazon Web Services (AWS) using GitHub Actions with OIDC (OpenID Connect) authentication. OIDC authentication adds an extra layer of security to your deployment pipeline.
 
