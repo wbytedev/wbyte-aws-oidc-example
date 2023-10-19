@@ -1,4 +1,4 @@
-# AWS OIDC Authentication Example with GitHub Actions
+# AWS OIDC with GitHub Actions
 
 ![GitHub Actions](https://github.com/wbytedev/wbyte-aws-oidc-example/actions/workflows/main.yaml/badge.svg?branch=main)
 
@@ -6,7 +6,7 @@ This repository is an example of how to deploy a project to Amazon Web Services 
 
 ## Table of Contents
 
-- [AWS OIDC Authentication Example with GitHub Actions](#aws-oidc-authentication-example-with-github-actions)
+- [AWS OIDC with GitHub Actions](#aws-oidc-with-github-actions)
   - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
